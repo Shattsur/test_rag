@@ -1,0 +1,7 @@
+# Игнорируем всё, что не нужно в контейнере
+__pycache__/
+*.pyc
+*.log
+FOR_INFO_rag_gen.py
+FOR_INFO_fit_params_optuna_nsgaii_v3.py
+FOR_INFO_reranker_train_nemotron.py
