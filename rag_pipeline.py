@@ -3,8 +3,6 @@ import os
 import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
-from torchgen import context
-from torchgen import context
 from transformers import pipeline, AutoTokenizer
 import torch
 import config
