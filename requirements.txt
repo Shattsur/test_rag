@@ -1,0 +1,12 @@
+sentence-transformers
+faiss-cpu
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+rouge-score
+nltk
+langchain-text-splitters
+python-dotenv
+tqdm
+evaluate
+bert-score
+accelerate

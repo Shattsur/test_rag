@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/raw/*
+!data/raw/.gitkeep
+chunks/
+vector_index/
+.env
